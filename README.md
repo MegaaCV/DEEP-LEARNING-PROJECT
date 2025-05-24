@@ -19,5 +19,5 @@ This project implements an Deep Learning image classification pipeline using PyT
 
 # OUTPUT
 https://github.com/MegaaCV/DEEP-LEARNING-PROJECT/issues/1#issue-3085689853
-![Image](https://github.com/user-attachments/assets/f49d99eb-389e-49cc-9892-fffd2552690a)
+
 
